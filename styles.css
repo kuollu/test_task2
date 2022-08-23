@@ -1,0 +1,9 @@
+.main-container {
+   display: flex;
+   justify-content: center;
+}
+
+.pokemonInfo {
+   display: flex;
+   justify-content: center;
+}
